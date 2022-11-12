@@ -1,4 +1,5 @@
-Used Technologies : React(MaterialUI), Node, Express, MongoDB(Atlas) 
+Used Technologies : React, Node, Express, MongoDB(Atlas) 
+Libraries : (Nodemon,Mongoose,Axios,ReactRouterDOM,MaterialUIIcons)
 
 ![kapak](https://user-images.githubusercontent.com/46208188/201483711-06977bfe-1cab-4beb-b6fd-79905b2d24d0.png)
 ![book-post](https://user-images.githubusercontent.com/46208188/201483610-be87b8d6-1b15-4652-b58b-54367bfe19eb.gif)
