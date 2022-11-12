@@ -1,4 +1,4 @@
-Used Technologies : React, Node, Express, MongoDB(Atlas) 
+Used Technologies : React, Node, Express, MongoDB(Atlas),postman 
 Libraries : (Nodemon,Mongoose,Axios,ReactRouterDOM,MaterialUIIcons)
 
 ![kapak](https://user-images.githubusercontent.com/46208188/201483711-06977bfe-1cab-4beb-b6fd-79905b2d24d0.png)
